@@ -1,5 +1,6 @@
 **Drivers of insect population declines
 **
+
 Workflow: 
 1. Update InsectChange database with new data
 2. Project all data on map and create buffers around each point
